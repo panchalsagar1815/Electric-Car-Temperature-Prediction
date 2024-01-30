@@ -1,4 +1,4 @@
-# Electric-Car-Temperature-Predic
+# Electric-Car-Temperature-P
 **Project Title: Electric Car Temperature Prediction**
 
 **Overview:**
