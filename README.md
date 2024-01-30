@@ -1,4 +1,4 @@
-# Electric-Car
+# Electric
 **Project Title: Electric Car Temperature Prediction**
 
 **Overview:**
