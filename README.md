@@ -1,4 +1,4 @@
-#**Project Title: Electric Car Temperature Prediction**
+# **Project Title: Electric Car Temperature Prediction**
 
 **Overview:**
 The "Electric Car Temperature Prediction" project aims to develop a predictive model that forecasts temperature changes in electric cars based on various features such as ambient conditions, coolant levels, motor speed, torque, and more. By employing deep learning techniques and a convolutional neural network (CNN), the project enhances the accuracy of temperature predictions, contributing to the efficiency and performance of electric vehicles.
