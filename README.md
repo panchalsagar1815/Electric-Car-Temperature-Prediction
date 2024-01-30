@@ -1,4 +1,4 @@
-# Elect
+# El
 **Project Title: Electric Car Temperature Prediction**
 
 **Overview:**
