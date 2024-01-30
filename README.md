@@ -9,7 +9,7 @@ The "Electric Car Temperature Prediction" project aims to develop a predictive m
 
 1. **Data Collection and Cleaning:**
    - Compiled a dataset containing key features such as ambient conditions, coolant levels, motor speed, torque, and others.
-   - Employed data cleaning techniques to handle missing values, outliers, and ensure data consistency.
+   - Employed data cleaning techniques to handle missing values, and outliers, and ensure data consistency.
    - Ensured the dataset's integrity for accurate temperature predictions.
 
 2. **Data Preprocessing, Scaling, and Normalization:**
